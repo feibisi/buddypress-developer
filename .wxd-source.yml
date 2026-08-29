@@ -1,0 +1,6 @@
+product: buddypress-developer
+current_source: official
+official:
+  url: https://github.com/buddypress/buddypress.git
+  folder: docs/developer/
+context7: see data/docs-pipeline/context7/
